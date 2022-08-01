@@ -6,7 +6,7 @@ This classification is then used quantify the total driver, rides, fares and the
 
 ## Overview of Project
 
-![Pyber_Summary](/Analysis/Pyber_summary_DF.png)
+![Pyber_Summary](/Analysis/PyBer_fare_summary.png)
 
 ### Urban Cities
 
