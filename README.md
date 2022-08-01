@@ -24,7 +24,7 @@ The suburban cities have the second highest ride and driver amount at 625 and 49
 
 The average fare per ride is calculated by dividing the total fare ($19,356.33) by the number of rides. This means that each ride in our suburban cities earns us $30.97	
 
-The average fare per driver is calculated by dividing the total fare ($19,356.33) by the number of rides. This means that each ride in our suburban cities earns us $39.50
+The average fare per driver is calculated by dividing the total fare ($19,356.33) by the number of rides. This means that each driver in our suburban cities earns us $39.50
 
 Suburban cities have a noticeably lower demand for rides; however the fare per ride is higher.
 
@@ -36,7 +36,7 @@ Rural cities have the lowest ride and driver count at 125 and 78 respectively, t
 
 The average fare per ride is calculated by dividing the total fare ($4,327.93) by the number of rides. This means that each ride in our rural cities earns us $34.62.	
 
-The average fare per driver is calculated by dividing the total fare ($4,327.93) by the number of rides. This means that each ride in our rural cities earns us $55.49.
+The average fare per driver is calculated by dividing the total fare ($4,327.93) by the number of rides. This means that each driver in our rural cities earns us $55.49.
 
 Rural cities have a really low ride count; the ride/driver index in them is 1.60, meaning that each driver contributed with at least 1.6 rides during our 2019 first quarter.
 
@@ -52,12 +52,21 @@ This information is useful to know how the market differs according to the city 
 
 ![Fare_Per_City_Type](/Analysis/Q1_Fares_per_City_Type.png)
 
+This line chart was made using the weekly fare information for the 2019 Q1 per each city type. The third week of februrary has a noticeable spike in all three city types.
 
+### Urban Cities
+Urban cities as mentioned previously have the highest fare value; January has the lowest fares compared to the rest of the months. During the last weeks of february and the first weeks of march there's a noticeable spike which reaches the highest fare value for this quarter. The fare values oscillated between 1600 at a minimum and around 2500 for their maximum.
+
+### Suburban Cities
+Suburban cities have a low fare value during march. There's a slight dip during the first week of april which then starts to rise. January shows a stead increase in fares while februrary reaches the highest fare value for suburban cities. The fare values oscillated between 750 at a minimum and almost 1500 for their maximum.
+
+### Rural Cities
+Rural cities had a more stable fare value during this quarter; for all this period the fare remained within the 0 to 500 range. Between the 4 analyzed months, january had the lowest fare value. The maximum fare for rural areas happened during the final week of marcha nd the first week of april.
 
 ### Business Recommendations
 
-1. 
+1. Rural areas have a problem with the number of rides that are requested, and the high fare for these. It's possible that the high fare costs cause the citizens of rural areas to avoid using pyber and use an alternative transportation method. We could solve these issues by offering a carpooling campaing or a discounted fare for these sectors which would drive up the ride numbers and, if done properly, increase the total fare. 
 
-2. 
+2. Researching the route information for the rides at rural areas could help determine the average distance for each ride which influences the gas consumption and the areas with the most movement, this information would make our campaings to provide our service to underserved neighborhoods much more effective
 
-3. 
+3. Urban areas have a higher driver count than rides taken, which means that we could try boost our service through a advertising campaign to let the people know about our great service and low fares. This way our drivers can each provide at least 1 ride during the quarter.
