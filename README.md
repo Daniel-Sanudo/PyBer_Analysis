@@ -6,7 +6,7 @@ This classification is then used quantify the total driver, rides, fares and the
 
 ## Overview of Project
 
-![Pyber_Summary](/Analysis/PyBer_fare_summary.png)
+![Pyber_Summary](/Analysis/Pyber_summary_DF.png)
 
 ### Urban Cities
 
@@ -50,7 +50,7 @@ This information is useful to know how the market differs according to the city 
 
 ## Results
 
-![Fare_Per_City_Type](/Analysis/Q1_Fares_per_City_Type.png)
+![Fare_Per_City_Type](/Analysis/PyBer_fare_summary.png)
 
 This line chart was made using the weekly fare information for the 2019 Q1 per each city type. The third week of februrary has a noticeable spike in all three city types.
 
